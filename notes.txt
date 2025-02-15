@@ -2,8 +2,7 @@ Time Complexity: based on number of operations to complete someething
 
 Space Complexity: memory used to complete some operation
 
-
-Big O
+01 - Big O
 
 check the worst case
 
@@ -32,3 +31,9 @@ OBS: if you have two diferent params, its not going to O(n) + O(n), it will be O
 
 table of complexities
 https://www.bigocheatsheet.com/
+
+
+
+02 - Classes and Pointers
+- when you point a variable to another variable and change the secound one, is not going to change the first
+- But using dictionaries is diferent, if you chnage the secound one is going to change the first
